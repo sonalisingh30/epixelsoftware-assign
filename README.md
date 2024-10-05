@@ -12,7 +12,7 @@ This project is an HTML/CSS-based webpage developed as a submission for an assig
 ## Deployment
 
 The project is live and can be accessed at the following link:
-[Demo](https://sonali-epixelsoftware-assign.netlify.app/#signupForm)
+[Demo Link](https://sonali-epixelsoftware-assign.netlify.app/#signupForm)
 
 ## Technologies Used
 
